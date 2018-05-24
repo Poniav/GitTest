@@ -1,0 +1,4 @@
+yos_hello:
+    config:
+      template: App/Entity/User
+      email: bonjour@test.com
